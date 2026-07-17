@@ -94,6 +94,7 @@
 <reflist>
 <ref refid="6e6229bc-70f4-11ec-aabc-f47b099bf663"/>
 <ref refid="15143ea0-7d30-11f1-9f35-d6ae1adfc68a"/>
+<ref refid="03fa6069-819a-11f1-859b-f0c5d781d7c8"/>
 </reflist>
 </ownedDiagram>
 <ownedType>
@@ -124,6 +125,7 @@
 <presentation>
 <reflist>
 <ref refid="151ddc8d-7d30-11f1-9e34-d6ae1adfc68a"/>
+<ref refid="03fb1a37-819a-11f1-840c-f0c5d781d7c8"/>
 </reflist>
 </presentation>
 </UML:Package>
@@ -530,6 +532,7 @@
 <ref refid="da22d826-f1a5-11ed-ab45-f47b099bf663"/>
 <ref refid="e1a1c1b5-f1a5-11ed-8ef7-f47b099bf663"/>
 <ref refid="a654757c-7ed1-11f1-b5b9-d6ae1adfc68a"/>
+<ref refid="b413df33-819a-11f1-a255-f0c5d781d7c8"/>
 <ref refid="e341427e-f1a4-11ed-8844-f47b099bf663"/>
 <ref refid="e3422cb2-f1a4-11ed-ac35-f47b099bf663"/>
 <ref refid="e34292bd-f1a4-11ed-9698-f47b099bf663"/>
@@ -897,7 +900,7 @@
 </general:Line>
 <UML:DiagramItem id="f016e80a-f1a4-11ed-a2a1-f47b099bf663">
 <matrix>
-<val>(1.0, 0.0, 0.0, 1.0, 764.3007202148438, 115.17579650878906)</val>
+<val>(1.0, 0.0, 0.0, 1.0, 734.3007202148438, 115.17579650878906)</val>
 </matrix>
 <top-left>
 <val>(0.0, 0.0)</val>
@@ -1794,7 +1797,7 @@
 </UML:Property>
 <UML:DiagramItem id="a654757c-7ed1-11f1-b5b9-d6ae1adfc68a">
 <matrix>
-<val>(1.0, 0.0, 0.0, 1.0, 879.3007202148438, 115.17579650878906)</val>
+<val>(1.0, 0.0, 0.0, 1.0, 835.3007202148438, 115.17579650878906)</val>
 </matrix>
 <top-left>
 <val>(0.0, 0.0)</val>
@@ -3165,5 +3168,63 @@
 <ref refid="ae2911a0-8199-11f1-90b5-f0c5d781d7c8"/>
 </target>
 </UML:ControlFlow>
+<SysML:UseCaseDiagram id="03fa6069-819a-11f1-859b-f0c5d781d7c8">
+<element>
+<ref refid="f3a4d688-70f4-11ec-aabc-f47b099bf663"/>
+</element>
+<name>
+<val>Use Case Scenario for Operation</val>
+</name>
+<ownedPresentation>
+<reflist>
+<ref refid="03fb1a37-819a-11f1-840c-f0c5d781d7c8"/>
+</reflist>
+</ownedPresentation>
+<presentation>
+<reflist>
+<ref refid="b413df33-819a-11f1-a255-f0c5d781d7c8"/>
+</reflist>
+</presentation>
+</SysML:UseCaseDiagram>
+<SysML:DiagramFrameItem id="03fb1a37-819a-11f1-840c-f0c5d781d7c8">
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)</val>
+</matrix>
+<top-left>
+<val>(0.0, 0.0)</val>
+</top-left>
+<width>
+<val>600.0</val>
+</width>
+<height>
+<val>400.0</val>
+</height>
+<diagram>
+<ref refid="03fa6069-819a-11f1-859b-f0c5d781d7c8"/>
+</diagram>
+<subject>
+<ref refid="f3a4d688-70f4-11ec-aabc-f47b099bf663"/>
+</subject>
+</SysML:DiagramFrameItem>
+<UML:DiagramItem id="b413df33-819a-11f1-a255-f0c5d781d7c8">
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 946.0, 115.17579650878906)</val>
+</matrix>
+<top-left>
+<val>(0.0, 0.0)</val>
+</top-left>
+<width>
+<val>30.0</val>
+</width>
+<height>
+<val>30.0</val>
+</height>
+<diagram>
+<ref refid="cc75f448-f1a4-11ed-9230-f47b099bf663"/>
+</diagram>
+<subject>
+<ref refid="03fa6069-819a-11f1-859b-f0c5d781d7c8"/>
+</subject>
+</UML:DiagramItem>
 </model>
 </gaphor>
