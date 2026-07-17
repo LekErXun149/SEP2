@@ -99,7 +99,6 @@
 <ownedType>
 <reflist>
 <ref refid="50ef9dc1-7d2f-11f1-b6af-d6ae1adfc68a"/>
-<ref refid="d5625873-7d30-11f1-bdc0-d6ae1adfc68a"/>
 <ref refid="4fe2b791-7ed2-11f1-9fb0-d6ae1adfc68a"/>
 <ref refid="7ebc2269-7ed2-11f1-8a01-d6ae1adfc68a"/>
 <ref refid="a0deeeab-7ed2-11f1-a19e-d6ae1adfc68a"/>
@@ -113,7 +112,6 @@
 <packagedElement>
 <reflist>
 <ref refid="50ef9dc1-7d2f-11f1-b6af-d6ae1adfc68a"/>
-<ref refid="d5625873-7d30-11f1-bdc0-d6ae1adfc68a"/>
 <ref refid="4fe2b791-7ed2-11f1-9fb0-d6ae1adfc68a"/>
 <ref refid="7ebc2269-7ed2-11f1-8a01-d6ae1adfc68a"/>
 <ref refid="a0deeeab-7ed2-11f1-a19e-d6ae1adfc68a"/>
@@ -1310,22 +1308,11 @@
 <ref refid="f3a4d688-70f4-11ec-aabc-f47b099bf663"/>
 </element>
 <name>
-<val>Use Case Scenario for operation of the device</val>
+<val>Use Case Scenario for Maintenance</val>
 </name>
 <ownedPresentation>
 <reflist>
 <ref refid="151ddc8d-7d30-11f1-9e34-d6ae1adfc68a"/>
-<ref refid="d5571cf5-7d30-11f1-a435-d6ae1adfc68a"/>
-<ref refid="ddd77994-7d30-11f1-a3c6-d6ae1adfc68a"/>
-<ref refid="ebb49e3b-7d30-11f1-92bd-d6ae1adfc68a"/>
-<ref refid="37730c0b-7d31-11f1-8350-d6ae1adfc68a"/>
-<ref refid="622204c3-7d31-11f1-99a6-d6ae1adfc68a"/>
-<ref refid="935ce0ee-7d31-11f1-b989-d6ae1adfc68a"/>
-<ref refid="bcf963d2-7d31-11f1-bf06-d6ae1adfc68a"/>
-<ref refid="c354bc73-7d31-11f1-b6df-d6ae1adfc68a"/>
-<ref refid="cf09a873-7d31-11f1-af31-d6ae1adfc68a"/>
-<ref refid="d8bc588f-7d31-11f1-a936-d6ae1adfc68a"/>
-<ref refid="db5649b1-7d31-11f1-ae74-d6ae1adfc68a"/>
 </reflist>
 </ownedPresentation>
 <presentation>
@@ -1354,497 +1341,6 @@
 <ref refid="f3a4d688-70f4-11ec-aabc-f47b099bf663"/>
 </subject>
 </SysML:DiagramFrameItem>
-<UML:Action id="d556e467-7d30-11f1-b7cb-d6ae1adfc68a">
-<activity>
-<ref refid="d5625873-7d30-11f1-bdc0-d6ae1adfc68a"/>
-</activity>
-<name>
-<val>Mix Detergent and Water together</val>
-</name>
-<outgoing>
-<reflist>
-<ref refid="be013fd1-7d31-11f1-9290-d6ae1adfc68a"/>
-</reflist>
-</outgoing>
-<presentation>
-<reflist>
-<ref refid="d5571cf5-7d30-11f1-a435-d6ae1adfc68a"/>
-</reflist>
-</presentation>
-</UML:Action>
-<UML:ActionItem id="d5571cf5-7d30-11f1-a435-d6ae1adfc68a">
-<matrix>
-<val>(1.0, 0.0, 0.0, 1.0, 254.0, 106.0)</val>
-</matrix>
-<top-left>
-<val>(0.0, 0.0)</val>
-</top-left>
-<width>
-<val>164.0</val>
-</width>
-<height>
-<val>62.0</val>
-</height>
-<diagram>
-<ref refid="15143ea0-7d30-11f1-9f35-d6ae1adfc68a"/>
-</diagram>
-<subject>
-<ref refid="d556e467-7d30-11f1-b7cb-d6ae1adfc68a"/>
-</subject>
-</UML:ActionItem>
-<UML:Activity id="d5625873-7d30-11f1-bdc0-d6ae1adfc68a">
-<edge>
-<reflist>
-<ref refid="be013fd1-7d31-11f1-9290-d6ae1adfc68a"/>
-<ref refid="ca378bb1-7d31-11f1-939a-d6ae1adfc68a"/>
-<ref refid="d155803e-7d31-11f1-b62a-d6ae1adfc68a"/>
-<ref refid="e07747b5-7d31-11f1-9483-d6ae1adfc68a"/>
-<ref refid="e577dbd7-7d31-11f1-b28a-d6ae1adfc68a"/>
-</reflist>
-</edge>
-<name>
-<val>Activity</val>
-</name>
-<node>
-<reflist>
-<ref refid="d556e467-7d30-11f1-b7cb-d6ae1adfc68a"/>
-<ref refid="ddd740b0-7d30-11f1-bbf6-d6ae1adfc68a"/>
-<ref refid="ebb46e62-7d30-11f1-ae2d-d6ae1adfc68a"/>
-<ref refid="3772d948-7d31-11f1-ad90-d6ae1adfc68a"/>
-<ref refid="6221d376-7d31-11f1-941d-d6ae1adfc68a"/>
-<ref refid="935c85e7-7d31-11f1-9a84-d6ae1adfc68a"/>
-</reflist>
-</node>
-<owningPackage>
-<ref refid="f3a4d688-70f4-11ec-aabc-f47b099bf663"/>
-</owningPackage>
-<package>
-<ref refid="f3a4d688-70f4-11ec-aabc-f47b099bf663"/>
-</package>
-</UML:Activity>
-<UML:Action id="ddd740b0-7d30-11f1-bbf6-d6ae1adfc68a">
-<activity>
-<ref refid="d5625873-7d30-11f1-bdc0-d6ae1adfc68a"/>
-</activity>
-<incoming>
-<reflist>
-<ref refid="be013fd1-7d31-11f1-9290-d6ae1adfc68a"/>
-</reflist>
-</incoming>
-<name>
-<val>Pour the mixture into Reservior</val>
-</name>
-<outgoing>
-<reflist>
-<ref refid="ca378bb1-7d31-11f1-939a-d6ae1adfc68a"/>
-</reflist>
-</outgoing>
-<presentation>
-<reflist>
-<ref refid="ddd77994-7d30-11f1-a3c6-d6ae1adfc68a"/>
-</reflist>
-</presentation>
-</UML:Action>
-<UML:ActionItem id="ddd77994-7d30-11f1-a3c6-d6ae1adfc68a">
-<matrix>
-<val>(1.0, 0.0, 0.0, 1.0, 254.0, 239.0)</val>
-</matrix>
-<top-left>
-<val>(0.0, 0.0)</val>
-</top-left>
-<width>
-<val>164.0</val>
-</width>
-<height>
-<val>54.0</val>
-</height>
-<diagram>
-<ref refid="15143ea0-7d30-11f1-9f35-d6ae1adfc68a"/>
-</diagram>
-<subject>
-<ref refid="ddd740b0-7d30-11f1-bbf6-d6ae1adfc68a"/>
-</subject>
-</UML:ActionItem>
-<UML:Action id="ebb46e62-7d30-11f1-ae2d-d6ae1adfc68a">
-<activity>
-<ref refid="d5625873-7d30-11f1-bdc0-d6ae1adfc68a"/>
-</activity>
-<incoming>
-<reflist>
-<ref refid="ca378bb1-7d31-11f1-939a-d6ae1adfc68a"/>
-</reflist>
-</incoming>
-<name>
-<val>Add Scent</val>
-</name>
-<outgoing>
-<reflist>
-<ref refid="d155803e-7d31-11f1-b62a-d6ae1adfc68a"/>
-</reflist>
-</outgoing>
-<presentation>
-<reflist>
-<ref refid="ebb49e3b-7d30-11f1-92bd-d6ae1adfc68a"/>
-</reflist>
-</presentation>
-</UML:Action>
-<UML:ActionItem id="ebb49e3b-7d30-11f1-92bd-d6ae1adfc68a">
-<matrix>
-<val>(1.0, 0.0, 0.0, 1.0, 254.0, 368.0)</val>
-</matrix>
-<top-left>
-<val>(0.0, 0.0)</val>
-</top-left>
-<width>
-<val>164.0</val>
-</width>
-<height>
-<val>56.0</val>
-</height>
-<diagram>
-<ref refid="15143ea0-7d30-11f1-9f35-d6ae1adfc68a"/>
-</diagram>
-<subject>
-<ref refid="ebb46e62-7d30-11f1-ae2d-d6ae1adfc68a"/>
-</subject>
-</UML:ActionItem>
-<UML:Action id="3772d948-7d31-11f1-ad90-d6ae1adfc68a">
-<activity>
-<ref refid="d5625873-7d30-11f1-bdc0-d6ae1adfc68a"/>
-</activity>
-<incoming>
-<reflist>
-<ref refid="d155803e-7d31-11f1-b62a-d6ae1adfc68a"/>
-</reflist>
-</incoming>
-<name>
-<val>Switch on the device</val>
-</name>
-<outgoing>
-<reflist>
-<ref refid="e577dbd7-7d31-11f1-b28a-d6ae1adfc68a"/>
-</reflist>
-</outgoing>
-<presentation>
-<reflist>
-<ref refid="37730c0b-7d31-11f1-8350-d6ae1adfc68a"/>
-</reflist>
-</presentation>
-</UML:Action>
-<UML:ActionItem id="37730c0b-7d31-11f1-8350-d6ae1adfc68a">
-<matrix>
-<val>(1.0, 0.0, 0.0, 1.0, 254.0, 499.0)</val>
-</matrix>
-<top-left>
-<val>(0.0, 0.0)</val>
-</top-left>
-<width>
-<val>164.0</val>
-</width>
-<height>
-<val>58.0</val>
-</height>
-<diagram>
-<ref refid="15143ea0-7d30-11f1-9f35-d6ae1adfc68a"/>
-</diagram>
-<subject>
-<ref refid="3772d948-7d31-11f1-ad90-d6ae1adfc68a"/>
-</subject>
-</UML:ActionItem>
-<UML:Action id="6221d376-7d31-11f1-941d-d6ae1adfc68a">
-<activity>
-<ref refid="d5625873-7d30-11f1-bdc0-d6ae1adfc68a"/>
-</activity>
-<incoming>
-<reflist>
-<ref refid="e577dbd7-7d31-11f1-b28a-d6ae1adfc68a"/>
-</reflist>
-</incoming>
-<name>
-<val>Swich off the device</val>
-</name>
-<outgoing>
-<reflist>
-<ref refid="e07747b5-7d31-11f1-9483-d6ae1adfc68a"/>
-</reflist>
-</outgoing>
-<presentation>
-<reflist>
-<ref refid="622204c3-7d31-11f1-99a6-d6ae1adfc68a"/>
-</reflist>
-</presentation>
-</UML:Action>
-<UML:ActionItem id="622204c3-7d31-11f1-99a6-d6ae1adfc68a">
-<matrix>
-<val>(1.0, 0.0, 0.0, 1.0, 254.0, 632.5)</val>
-</matrix>
-<top-left>
-<val>(0.0, 0.0)</val>
-</top-left>
-<width>
-<val>164.0</val>
-</width>
-<height>
-<val>61.0</val>
-</height>
-<diagram>
-<ref refid="15143ea0-7d30-11f1-9f35-d6ae1adfc68a"/>
-</diagram>
-<subject>
-<ref refid="6221d376-7d31-11f1-941d-d6ae1adfc68a"/>
-</subject>
-</UML:ActionItem>
-<UML:Action id="935c85e7-7d31-11f1-9a84-d6ae1adfc68a">
-<activity>
-<ref refid="d5625873-7d30-11f1-bdc0-d6ae1adfc68a"/>
-</activity>
-<incoming>
-<reflist>
-<ref refid="e07747b5-7d31-11f1-9483-d6ae1adfc68a"/>
-</reflist>
-</incoming>
-<name>
-<val>Empty the Reservior</val>
-</name>
-<presentation>
-<reflist>
-<ref refid="935ce0ee-7d31-11f1-b989-d6ae1adfc68a"/>
-</reflist>
-</presentation>
-</UML:Action>
-<UML:ActionItem id="935ce0ee-7d31-11f1-b989-d6ae1adfc68a">
-<matrix>
-<val>(1.0, 0.0, 0.0, 1.0, 254.0, 768.9679462646475)</val>
-</matrix>
-<top-left>
-<val>(0.0, 0.0)</val>
-</top-left>
-<width>
-<val>164.0</val>
-</width>
-<height>
-<val>60.0</val>
-</height>
-<diagram>
-<ref refid="15143ea0-7d30-11f1-9f35-d6ae1adfc68a"/>
-</diagram>
-<subject>
-<ref refid="935c85e7-7d31-11f1-9a84-d6ae1adfc68a"/>
-</subject>
-</UML:ActionItem>
-<UML:ControlFlowItem id="bcf963d2-7d31-11f1-bf06-d6ae1adfc68a">
-<diagram>
-<ref refid="15143ea0-7d30-11f1-9f35-d6ae1adfc68a"/>
-</diagram>
-<horizontal>
-<val>False</val>
-</horizontal>
-<orthogonal>
-<val>False</val>
-</orthogonal>
-<subject>
-<ref refid="be013fd1-7d31-11f1-9290-d6ae1adfc68a"/>
-</subject>
-<matrix>
-<val>(1.0, 0.0, 0.0, 1.0, 334.0, 166.2341732351608)</val>
-</matrix>
-<points>
-<val>[(2.0, 1.765826764839204), (2.0, 72.7658267648392)]</val>
-</points>
-<head-connection>
-<ref refid="d5571cf5-7d30-11f1-a435-d6ae1adfc68a"/>
-</head-connection>
-<tail-connection>
-<ref refid="ddd77994-7d30-11f1-a3c6-d6ae1adfc68a"/>
-</tail-connection>
-</UML:ControlFlowItem>
-<UML:ControlFlow id="be013fd1-7d31-11f1-9290-d6ae1adfc68a">
-<activity>
-<ref refid="d5625873-7d30-11f1-bdc0-d6ae1adfc68a"/>
-</activity>
-<presentation>
-<reflist>
-<ref refid="bcf963d2-7d31-11f1-bf06-d6ae1adfc68a"/>
-</reflist>
-</presentation>
-<source>
-<ref refid="d556e467-7d30-11f1-b7cb-d6ae1adfc68a"/>
-</source>
-<target>
-<ref refid="ddd740b0-7d30-11f1-bbf6-d6ae1adfc68a"/>
-</target>
-</UML:ControlFlow>
-<UML:ControlFlowItem id="c354bc73-7d31-11f1-b6df-d6ae1adfc68a">
-<diagram>
-<ref refid="15143ea0-7d30-11f1-9f35-d6ae1adfc68a"/>
-</diagram>
-<horizontal>
-<val>False</val>
-</horizontal>
-<orthogonal>
-<val>False</val>
-</orthogonal>
-<subject>
-<ref refid="ca378bb1-7d31-11f1-939a-d6ae1adfc68a"/>
-</subject>
-<matrix>
-<val>(1.0, 0.0, 0.0, 1.0, 336.0, 293.0)</val>
-</matrix>
-<points>
-<val>[(0.0, 0.0), (0.0, 75.0)]</val>
-</points>
-<head-connection>
-<ref refid="ddd77994-7d30-11f1-a3c6-d6ae1adfc68a"/>
-</head-connection>
-<tail-connection>
-<ref refid="ebb49e3b-7d30-11f1-92bd-d6ae1adfc68a"/>
-</tail-connection>
-</UML:ControlFlowItem>
-<UML:ControlFlow id="ca378bb1-7d31-11f1-939a-d6ae1adfc68a">
-<activity>
-<ref refid="d5625873-7d30-11f1-bdc0-d6ae1adfc68a"/>
-</activity>
-<presentation>
-<reflist>
-<ref refid="c354bc73-7d31-11f1-b6df-d6ae1adfc68a"/>
-</reflist>
-</presentation>
-<source>
-<ref refid="ddd740b0-7d30-11f1-bbf6-d6ae1adfc68a"/>
-</source>
-<target>
-<ref refid="ebb46e62-7d30-11f1-ae2d-d6ae1adfc68a"/>
-</target>
-</UML:ControlFlow>
-<UML:ControlFlowItem id="cf09a873-7d31-11f1-af31-d6ae1adfc68a">
-<diagram>
-<ref refid="15143ea0-7d30-11f1-9f35-d6ae1adfc68a"/>
-</diagram>
-<horizontal>
-<val>False</val>
-</horizontal>
-<orthogonal>
-<val>False</val>
-</orthogonal>
-<subject>
-<ref refid="d155803e-7d31-11f1-b62a-d6ae1adfc68a"/>
-</subject>
-<matrix>
-<val>(1.0, 0.0, 0.0, 1.0, 333.0, 421.10105974990415)</val>
-</matrix>
-<points>
-<val>[(3.0, 2.8989402500958477), (3.0, 77.89894025009585)]</val>
-</points>
-<head-connection>
-<ref refid="ebb49e3b-7d30-11f1-92bd-d6ae1adfc68a"/>
-</head-connection>
-<tail-connection>
-<ref refid="37730c0b-7d31-11f1-8350-d6ae1adfc68a"/>
-</tail-connection>
-</UML:ControlFlowItem>
-<UML:ControlFlow id="d155803e-7d31-11f1-b62a-d6ae1adfc68a">
-<activity>
-<ref refid="d5625873-7d30-11f1-bdc0-d6ae1adfc68a"/>
-</activity>
-<presentation>
-<reflist>
-<ref refid="cf09a873-7d31-11f1-af31-d6ae1adfc68a"/>
-</reflist>
-</presentation>
-<source>
-<ref refid="ebb46e62-7d30-11f1-ae2d-d6ae1adfc68a"/>
-</source>
-<target>
-<ref refid="3772d948-7d31-11f1-ad90-d6ae1adfc68a"/>
-</target>
-</UML:ControlFlow>
-<UML:ControlFlowItem id="d8bc588f-7d31-11f1-a936-d6ae1adfc68a">
-<diagram>
-<ref refid="15143ea0-7d30-11f1-9f35-d6ae1adfc68a"/>
-</diagram>
-<horizontal>
-<val>False</val>
-</horizontal>
-<orthogonal>
-<val>False</val>
-</orthogonal>
-<subject>
-<ref refid="e577dbd7-7d31-11f1-b28a-d6ae1adfc68a"/>
-</subject>
-<matrix>
-<val>(1.0, 0.0, 0.0, 1.0, 494.0, 549.9679462646475)</val>
-</matrix>
-<points>
-<val>[(-158.0, 7.03205373535252), (-158.0, 82.53205373535252)]</val>
-</points>
-<head-connection>
-<ref refid="37730c0b-7d31-11f1-8350-d6ae1adfc68a"/>
-</head-connection>
-<tail-connection>
-<ref refid="622204c3-7d31-11f1-99a6-d6ae1adfc68a"/>
-</tail-connection>
-</UML:ControlFlowItem>
-<UML:ControlFlowItem id="db5649b1-7d31-11f1-ae74-d6ae1adfc68a">
-<diagram>
-<ref refid="15143ea0-7d30-11f1-9f35-d6ae1adfc68a"/>
-</diagram>
-<horizontal>
-<val>False</val>
-</horizontal>
-<orthogonal>
-<val>False</val>
-</orthogonal>
-<subject>
-<ref refid="e07747b5-7d31-11f1-9483-d6ae1adfc68a"/>
-</subject>
-<matrix>
-<val>(1.0, 0.0, 0.0, 1.0, 464.0, 696.9679462646475)</val>
-</matrix>
-<points>
-<val>[(-128.0, -3.4679462646474803), (-128.0, 72.0)]</val>
-</points>
-<head-connection>
-<ref refid="622204c3-7d31-11f1-99a6-d6ae1adfc68a"/>
-</head-connection>
-<tail-connection>
-<ref refid="935ce0ee-7d31-11f1-b989-d6ae1adfc68a"/>
-</tail-connection>
-</UML:ControlFlowItem>
-<UML:ControlFlow id="e07747b5-7d31-11f1-9483-d6ae1adfc68a">
-<activity>
-<ref refid="d5625873-7d30-11f1-bdc0-d6ae1adfc68a"/>
-</activity>
-<presentation>
-<reflist>
-<ref refid="db5649b1-7d31-11f1-ae74-d6ae1adfc68a"/>
-</reflist>
-</presentation>
-<source>
-<ref refid="6221d376-7d31-11f1-941d-d6ae1adfc68a"/>
-</source>
-<target>
-<ref refid="935c85e7-7d31-11f1-9a84-d6ae1adfc68a"/>
-</target>
-</UML:ControlFlow>
-<UML:ControlFlow id="e577dbd7-7d31-11f1-b28a-d6ae1adfc68a">
-<activity>
-<ref refid="d5625873-7d30-11f1-bdc0-d6ae1adfc68a"/>
-</activity>
-<name>
-<val></val>
-</name>
-<presentation>
-<reflist>
-<ref refid="d8bc588f-7d31-11f1-a936-d6ae1adfc68a"/>
-</reflist>
-</presentation>
-<source>
-<ref refid="3772d948-7d31-11f1-ad90-d6ae1adfc68a"/>
-</source>
-<target>
-<ref refid="6221d376-7d31-11f1-941d-d6ae1adfc68a"/>
-</target>
-</UML:ControlFlow>
 <SysML:Block id="cee12099-7ec6-11f1-ad1d-d6ae1adfc68a">
 <name>
 <val>Domain</val>
@@ -1935,7 +1431,7 @@
 </SysML:BlockItem>
 <SysML:Block id="f1ac3630-7ec6-11f1-8eb0-d6ae1adfc68a">
 <name>
-<val>Project Name</val>
+<val>Pitcher Guard</val>
 </name>
 <owningPackage>
 <ref refid="07bbcb9a-70f5-11ec-aabc-f47b099bf663"/>
@@ -2306,7 +1802,7 @@
 </UML:DiagramItem>
 <SysML:Block id="4fe2b791-7ed2-11f1-9fb0-d6ae1adfc68a">
 <name>
-<val>Project Name</val>
+<val>Pitcher Guard</val>
 </name>
 <owningPackage>
 <ref refid="f3a4d688-70f4-11ec-aabc-f47b099bf663"/>
@@ -2782,7 +2278,7 @@
 <val>189.5</val>
 </width>
 <height>
-<val>171.0</val>
+<val>168.0</val>
 </height>
 <diagram>
 <ref refid="01a97fa8-70f6-11ec-aabc-f47b099bf663"/>
@@ -2824,7 +2320,7 @@
 <val>174.0</val>
 </width>
 <height>
-<val>171.0</val>
+<val>134.0</val>
 </height>
 <diagram>
 <ref refid="01a97fa8-70f6-11ec-aabc-f47b099bf663"/>
@@ -3078,6 +2574,9 @@
 <horizontal>
 <val>False</val>
 </horizontal>
+<orthogonal>
+<val>False</val>
+</orthogonal>
 <subject>
 <ref refid="95aa73ca-7ed9-11f1-bd54-d6ae1adfc68a"/>
 </subject>
