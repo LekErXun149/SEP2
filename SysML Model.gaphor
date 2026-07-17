@@ -104,6 +104,7 @@
 <ref refid="a0deeeab-7ed2-11f1-a19e-d6ae1adfc68a"/>
 <ref refid="6a2cf64d-7ed5-11f1-911b-d6ae1adfc68a"/>
 <ref refid="86864cbf-7ed5-11f1-92fc-d6ae1adfc68a"/>
+<ref refid="e3ed517f-8195-11f1-af95-f0c5d781d7c8"/>
 </reflist>
 </ownedType>
 <owningPackage>
@@ -117,6 +118,7 @@
 <ref refid="a0deeeab-7ed2-11f1-a19e-d6ae1adfc68a"/>
 <ref refid="6a2cf64d-7ed5-11f1-911b-d6ae1adfc68a"/>
 <ref refid="86864cbf-7ed5-11f1-92fc-d6ae1adfc68a"/>
+<ref refid="e3ed517f-8195-11f1-af95-f0c5d781d7c8"/>
 </reflist>
 </packagedElement>
 <presentation>
@@ -1313,6 +1315,9 @@
 <ownedPresentation>
 <reflist>
 <ref refid="151ddc8d-7d30-11f1-9e34-d6ae1adfc68a"/>
+<ref refid="e3ec2380-8195-11f1-b01a-f0c5d781d7c8"/>
+<ref refid="f9bbdaab-8195-11f1-979b-f0c5d781d7c8"/>
+<ref refid="1587dbf6-8196-11f1-9dd8-f0c5d781d7c8"/>
 </reflist>
 </ownedPresentation>
 <presentation>
@@ -2725,5 +2730,145 @@
 <ref refid="ee75483b-7ed9-11f1-a0d3-d6ae1adfc68a"/>
 </itemFlow>
 </UML:Property>
+<UML:Action id="e3ebe2ce-8195-11f1-8f32-f0c5d781d7c8">
+<activity>
+<ref refid="e3ed517f-8195-11f1-af95-f0c5d781d7c8"/>
+</activity>
+<name>
+<val>Mix detetgent and water together</val>
+</name>
+<outgoing>
+<reflist>
+<ref refid="162b9dff-8196-11f1-9d19-f0c5d781d7c8"/>
+</reflist>
+</outgoing>
+<presentation>
+<reflist>
+<ref refid="e3ec2380-8195-11f1-b01a-f0c5d781d7c8"/>
+</reflist>
+</presentation>
+</UML:Action>
+<UML:ActionItem id="e3ec2380-8195-11f1-b01a-f0c5d781d7c8">
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 311.0, 140.0)</val>
+</matrix>
+<top-left>
+<val>(0.0, 0.0)</val>
+</top-left>
+<width>
+<val>143.0</val>
+</width>
+<height>
+<val>67.0</val>
+</height>
+<diagram>
+<ref refid="15143ea0-7d30-11f1-9f35-d6ae1adfc68a"/>
+</diagram>
+<subject>
+<ref refid="e3ebe2ce-8195-11f1-8f32-f0c5d781d7c8"/>
+</subject>
+</UML:ActionItem>
+<UML:Activity id="e3ed517f-8195-11f1-af95-f0c5d781d7c8">
+<edge>
+<reflist>
+<ref refid="162b9dff-8196-11f1-9d19-f0c5d781d7c8"/>
+</reflist>
+</edge>
+<name>
+<val>Activity</val>
+</name>
+<node>
+<reflist>
+<ref refid="e3ebe2ce-8195-11f1-8f32-f0c5d781d7c8"/>
+<ref refid="f9bb9791-8195-11f1-8b26-f0c5d781d7c8"/>
+</reflist>
+</node>
+<owningPackage>
+<ref refid="f3a4d688-70f4-11ec-aabc-f47b099bf663"/>
+</owningPackage>
+<package>
+<ref refid="f3a4d688-70f4-11ec-aabc-f47b099bf663"/>
+</package>
+</UML:Activity>
+<UML:Action id="f9bb9791-8195-11f1-8b26-f0c5d781d7c8">
+<activity>
+<ref refid="e3ed517f-8195-11f1-af95-f0c5d781d7c8"/>
+</activity>
+<incoming>
+<reflist>
+<ref refid="162b9dff-8196-11f1-9d19-f0c5d781d7c8"/>
+</reflist>
+</incoming>
+<name>
+<val>Add detergent water into the reservior</val>
+</name>
+<presentation>
+<reflist>
+<ref refid="f9bbdaab-8195-11f1-979b-f0c5d781d7c8"/>
+</reflist>
+</presentation>
+</UML:Action>
+<UML:ActionItem id="f9bbdaab-8195-11f1-979b-f0c5d781d7c8">
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 311.0, 291.13311348525673)</val>
+</matrix>
+<top-left>
+<val>(0.0, 0.0)</val>
+</top-left>
+<width>
+<val>143.0</val>
+</width>
+<height>
+<val>66.0</val>
+</height>
+<diagram>
+<ref refid="15143ea0-7d30-11f1-9f35-d6ae1adfc68a"/>
+</diagram>
+<subject>
+<ref refid="f9bb9791-8195-11f1-8b26-f0c5d781d7c8"/>
+</subject>
+</UML:ActionItem>
+<UML:ControlFlowItem id="1587dbf6-8196-11f1-9dd8-f0c5d781d7c8">
+<diagram>
+<ref refid="15143ea0-7d30-11f1-9f35-d6ae1adfc68a"/>
+</diagram>
+<horizontal>
+<val>False</val>
+</horizontal>
+<orthogonal>
+<val>False</val>
+</orthogonal>
+<subject>
+<ref refid="162b9dff-8196-11f1-9d19-f0c5d781d7c8"/>
+</subject>
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 384.0, 204.13311348525673)</val>
+</matrix>
+<points>
+<val>[(0.0, 2.866886514743271), (0.0, 87.0)]</val>
+</points>
+<head-connection>
+<ref refid="e3ec2380-8195-11f1-b01a-f0c5d781d7c8"/>
+</head-connection>
+<tail-connection>
+<ref refid="f9bbdaab-8195-11f1-979b-f0c5d781d7c8"/>
+</tail-connection>
+</UML:ControlFlowItem>
+<UML:ControlFlow id="162b9dff-8196-11f1-9d19-f0c5d781d7c8">
+<activity>
+<ref refid="e3ed517f-8195-11f1-af95-f0c5d781d7c8"/>
+</activity>
+<presentation>
+<reflist>
+<ref refid="1587dbf6-8196-11f1-9dd8-f0c5d781d7c8"/>
+</reflist>
+</presentation>
+<source>
+<ref refid="e3ebe2ce-8195-11f1-8f32-f0c5d781d7c8"/>
+</source>
+<target>
+<ref refid="f9bb9791-8195-11f1-8b26-f0c5d781d7c8"/>
+</target>
+</UML:ControlFlow>
 </model>
 </gaphor>
