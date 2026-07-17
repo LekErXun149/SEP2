@@ -143,6 +143,7 @@
 <reflist>
 <ref refid="18aefaa1-7ed7-11f1-a07b-d6ae1adfc68a"/>
 <ref refid="32a1db5b-7ed7-11f1-a657-d6ae1adfc68a"/>
+<ref refid="64913dfb-8192-11f1-b914-4c5f70d96864"/>
 </reflist>
 </ownedType>
 <owningPackage>
@@ -152,6 +153,7 @@
 <reflist>
 <ref refid="18aefaa1-7ed7-11f1-a07b-d6ae1adfc68a"/>
 <ref refid="32a1db5b-7ed7-11f1-a657-d6ae1adfc68a"/>
+<ref refid="64913dfb-8192-11f1-b914-4c5f70d96864"/>
 </reflist>
 </packagedElement>
 </UML:Package>
@@ -284,6 +286,7 @@
 <reflist>
 <ref refid="18af3c47-7ed7-11f1-99a7-d6ae1adfc68a"/>
 <ref refid="32a21877-7ed7-11f1-a814-d6ae1adfc68a"/>
+<ref refid="6491be02-8192-11f1-a624-4c5f70d96864"/>
 </reflist>
 </ownedPresentation>
 <presentation>
@@ -2782,7 +2785,7 @@
 <val>189.5</val>
 </width>
 <height>
-<val>171.0</val>
+<val>176.0</val>
 </height>
 <diagram>
 <ref refid="01a97fa8-70f6-11ec-aabc-f47b099bf663"/>
@@ -2824,7 +2827,7 @@
 <val>174.0</val>
 </width>
 <height>
-<val>171.0</val>
+<val>140.0</val>
 </height>
 <diagram>
 <ref refid="01a97fa8-70f6-11ec-aabc-f47b099bf663"/>
@@ -3078,6 +3081,9 @@
 <horizontal>
 <val>False</val>
 </horizontal>
+<orthogonal>
+<val>False</val>
+</orthogonal>
 <subject>
 <ref refid="95aa73ca-7ed9-11f1-bd54-d6ae1adfc68a"/>
 </subject>
@@ -3226,5 +3232,41 @@
 <ref refid="ee75483b-7ed9-11f1-a0d3-d6ae1adfc68a"/>
 </itemFlow>
 </UML:Property>
+<UML:Class id="64913dfb-8192-11f1-b914-4c5f70d96864">
+<name>
+<val>TEST</val>
+</name>
+<owningPackage>
+<ref refid="012edaba-70f5-11ec-aabc-f47b099bf663"/>
+</owningPackage>
+<package>
+<ref refid="012edaba-70f5-11ec-aabc-f47b099bf663"/>
+</package>
+<presentation>
+<reflist>
+<ref refid="6491be02-8192-11f1-a624-4c5f70d96864"/>
+</reflist>
+</presentation>
+</UML:Class>
+<UML:ClassItem id="6491be02-8192-11f1-a624-4c5f70d96864">
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 677.0, 535.0)</val>
+</matrix>
+<top-left>
+<val>(0.0, 0.0)</val>
+</top-left>
+<width>
+<val>100.0</val>
+</width>
+<height>
+<val>58.0</val>
+</height>
+<diagram>
+<ref refid="01a97fa8-70f6-11ec-aabc-f47b099bf663"/>
+</diagram>
+<subject>
+<ref refid="64913dfb-8192-11f1-b914-4c5f70d96864"/>
+</subject>
+</UML:ClassItem>
 </model>
 </gaphor>
