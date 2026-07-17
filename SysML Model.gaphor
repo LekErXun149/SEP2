@@ -64,7 +64,7 @@
 <ref refid="f3a4d688-70f4-11ec-aabc-f47b099bf663"/>
 </element>
 <name>
-<val>Use Cases</val>
+<val>Top-Level Use Cases</val>
 </name>
 <ownedPresentation>
 <reflist>
@@ -205,7 +205,7 @@
 <ref refid="07bbcb9a-70f5-11ec-aabc-f47b099bf663"/>
 </element>
 <name>
-<val>Feature Domain</val>
+<val>Pest Control Feature Domain</val>
 </name>
 <ownedPresentation>
 <reflist>
@@ -460,7 +460,7 @@
 <ref refid="274478f2-70f7-11ec-aabc-f47b099bf663"/>
 </element>
 <name>
-<val>Technology Requirements</val>
+<val>Hardware &amp; Power Requirements</val>
 </name>
 <presentation>
 <reflist>
@@ -499,7 +499,7 @@
 <ref refid="e1940b84-70f5-11ec-aabc-f47b099bf663"/>
 </element>
 <name>
-<val>Logical States</val>
+<val>Operational States</val>
 </name>
 <presentation>
 <reflist>
