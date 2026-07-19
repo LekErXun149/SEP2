@@ -244,6 +244,7 @@
 <ref refid="bf104323-81b5-11f1-98cf-f0c5d781d7c8"/>
 <ref refid="db21b353-81b5-11f1-8847-f0c5d781d7c8"/>
 <ref refid="f5244593-81b5-11f1-a847-f0c5d781d7c8"/>
+<ref refid="33f15a75-834a-11f1-8e02-f0c5d781d7c8"/>
 </reflist>
 </ownedType>
 <owningPackage>
@@ -254,6 +255,7 @@
 <ref refid="bf104323-81b5-11f1-98cf-f0c5d781d7c8"/>
 <ref refid="db21b353-81b5-11f1-8847-f0c5d781d7c8"/>
 <ref refid="f5244593-81b5-11f1-a847-f0c5d781d7c8"/>
+<ref refid="33f15a75-834a-11f1-8e02-f0c5d781d7c8"/>
 </reflist>
 </packagedElement>
 </UML:Package>
@@ -384,6 +386,10 @@
 <reflist>
 <ref refid="2f04341e-81b6-11f1-8e5c-f0c5d781d7c8"/>
 <ref refid="4b8c70af-81b6-11f1-bd1c-f0c5d781d7c8"/>
+<ref refid="75016c25-8349-11f1-b447-f0c5d781d7c8"/>
+<ref refid="017b93d8-834b-11f1-8a89-f0c5d781d7c8"/>
+<ref refid="5113a2fc-834b-11f1-8109-f0c5d781d7c8"/>
+<ref refid="9d811699-834b-11f1-8c82-f0c5d781d7c8"/>
 </reflist>
 </ownedType>
 <owningPackage>
@@ -393,6 +399,10 @@
 <reflist>
 <ref refid="2f04341e-81b6-11f1-8e5c-f0c5d781d7c8"/>
 <ref refid="4b8c70af-81b6-11f1-bd1c-f0c5d781d7c8"/>
+<ref refid="75016c25-8349-11f1-b447-f0c5d781d7c8"/>
+<ref refid="017b93d8-834b-11f1-8a89-f0c5d781d7c8"/>
+<ref refid="5113a2fc-834b-11f1-8109-f0c5d781d7c8"/>
+<ref refid="9d811699-834b-11f1-8c82-f0c5d781d7c8"/>
 </reflist>
 </packagedElement>
 </UML:Package>
@@ -495,6 +505,20 @@
 <reflist>
 <ref refid="2f04826e-81b6-11f1-8615-f0c5d781d7c8"/>
 <ref refid="4b8cadfb-81b6-11f1-a965-f0c5d781d7c8"/>
+<ref refid="d5048007-8348-11f1-8dca-f0c5d781d7c8"/>
+<ref refid="d948b954-8348-11f1-8e2c-f0c5d781d7c8"/>
+<ref refid="fc58099c-8348-11f1-bf68-f0c5d781d7c8"/>
+<ref refid="7501b168-8349-11f1-a9bd-f0c5d781d7c8"/>
+<ref refid="d67d98d3-834a-11f1-9637-f0c5d781d7c8"/>
+<ref refid="017bca2d-834b-11f1-85e9-f0c5d781d7c8"/>
+<ref refid="5113e539-834b-11f1-90c1-f0c5d781d7c8"/>
+<ref refid="9d8158cc-834b-11f1-b165-f0c5d781d7c8"/>
+<ref refid="e87f42c6-8348-11f1-9679-f0c5d781d7c8"/>
+<ref refid="0c6c3301-8349-11f1-932f-f0c5d781d7c8"/>
+<ref refid="8d328257-8349-11f1-924b-f0c5d781d7c8"/>
+<ref refid="22602aab-834b-11f1-986b-f0c5d781d7c8"/>
+<ref refid="ef916efb-834b-11f1-8c49-f0c5d781d7c8"/>
+<ref refid="f892e4c0-834b-11f1-baa3-f0c5d781d7c8"/>
 </reflist>
 </ownedPresentation>
 <presentation>
@@ -531,9 +555,11 @@
 <ref refid="8d87aaf8-81bb-11f1-a3a6-f0c5d781d7c8"/>
 <ref refid="8e230f7e-81bb-11f1-8406-f0c5d781d7c8"/>
 <ref refid="8eff34d3-81bb-11f1-977c-f0c5d781d7c8"/>
+<ref refid="33f1af47-834a-11f1-b92c-f0c5d781d7c8"/>
 <ref refid="fc23ebbd-81bb-11f1-8ee0-f0c5d781d7c8"/>
 <ref refid="1f7814b4-81bc-11f1-b458-f0c5d781d7c8"/>
 <ref refid="36098cab-81bc-11f1-9c8f-f0c5d781d7c8"/>
+<ref refid="a60dfe0d-834a-11f1-a02e-f0c5d781d7c8"/>
 </reflist>
 </ownedPresentation>
 <presentation>
@@ -2401,10 +2427,10 @@
 <val>(0.0, 0.0)</val>
 </top-left>
 <width>
-<val>206.5</val>
+<val>213.5</val>
 </width>
 <height>
-<val>185.0</val>
+<val>186.0</val>
 </height>
 <diagram>
 <ref refid="01a97fa8-70f6-11ec-aabc-f47b099bf663"/>
@@ -2438,16 +2464,16 @@
 </SysML:Requirement>
 <SysML:RequirementItem id="32a21877-7ed7-11f1-a814-d6ae1adfc68a">
 <matrix>
-<val>(1.0, 0.0, 0.0, 1.0, 501.0, 222.0)</val>
+<val>(1.0, 0.0, 0.0, 1.0, 511.0, 222.0)</val>
 </matrix>
 <top-left>
 <val>(-317.0, 0.0)</val>
 </top-left>
 <width>
-<val>211.0</val>
+<val>191.0</val>
 </width>
 <height>
-<val>185.0</val>
+<val>186.0</val>
 </height>
 <diagram>
 <ref refid="01a97fa8-70f6-11ec-aabc-f47b099bf663"/>
@@ -4558,10 +4584,10 @@
 <val>(4.0, 0.0)</val>
 </top-left>
 <width>
-<val>235.0</val>
+<val>238.0</val>
 </width>
 <height>
-<val>185.0</val>
+<val>186.0</val>
 </height>
 <diagram>
 <ref refid="01a97fa8-70f6-11ec-aabc-f47b099bf663"/>
@@ -4586,6 +4612,7 @@
 <presentation>
 <reflist>
 <ref refid="bf109dc3-81b5-11f1-b76b-f0c5d781d7c8"/>
+<ref refid="d948b954-8348-11f1-8e2c-f0c5d781d7c8"/>
 </reflist>
 </presentation>
 <targetDirectedRelationshipPropertyPath_>
@@ -4608,7 +4635,7 @@
 <val>234.0</val>
 </width>
 <height>
-<val>222.0</val>
+<val>219.0</val>
 </height>
 <diagram>
 <ref refid="07658ade-70f8-11ec-aabc-f47b099bf663"/>
@@ -4633,6 +4660,7 @@
 <presentation>
 <reflist>
 <ref refid="db21ee1a-81b5-11f1-b810-f0c5d781d7c8"/>
+<ref refid="fc58099c-8348-11f1-bf68-f0c5d781d7c8"/>
 </reflist>
 </presentation>
 <targetDirectedRelationshipPropertyPath_>
@@ -4646,16 +4674,16 @@
 </SysML:Requirement>
 <SysML:RequirementItem id="db21ee1a-81b5-11f1-b810-f0c5d781d7c8">
 <matrix>
-<val>(1.0, 0.0, 0.0, 1.0, 480.0, 209.0)</val>
+<val>(1.0, 0.0, 0.0, 1.0, 472.2222222222223, 209.0)</val>
 </matrix>
 <top-left>
 <val>(0.0, 0.0)</val>
 </top-left>
 <width>
-<val>244.0</val>
+<val>240.6111111111112</val>
 </width>
 <height>
-<val>222.0</val>
+<val>219.0</val>
 </height>
 <diagram>
 <ref refid="07658ade-70f8-11ec-aabc-f47b099bf663"/>
@@ -4680,6 +4708,7 @@
 <presentation>
 <reflist>
 <ref refid="f524913a-81b5-11f1-89f7-f0c5d781d7c8"/>
+<ref refid="d5048007-8348-11f1-8dca-f0c5d781d7c8"/>
 </reflist>
 </presentation>
 <targetDirectedRelationshipPropertyPath_>
@@ -4702,7 +4731,7 @@
 <val>249.0</val>
 </width>
 <height>
-<val>222.0</val>
+<val>219.0</val>
 </height>
 <diagram>
 <ref refid="07658ade-70f8-11ec-aabc-f47b099bf663"/>
@@ -4729,13 +4758,18 @@
 <ref refid="2f04826e-81b6-11f1-8615-f0c5d781d7c8"/>
 </reflist>
 </presentation>
+<targetDirectedRelationshipPropertyPath_>
+<reflist>
+<ref refid="ec1b98f4-8348-11f1-9fd8-f0c5d781d7c8"/>
+</reflist>
+</targetDirectedRelationshipPropertyPath_>
 <text>
 <val>The bottom section of the chassis shall house a single, unified, detachable drawer mechanism that serves as the shared trapping and killing zone for all insect types.</val>
 </text>
 </SysML:Requirement>
 <SysML:RequirementItem id="2f04826e-81b6-11f1-8615-f0c5d781d7c8">
 <matrix>
-<val>(1.0, 0.0, 0.0, 1.0, 240.0, 182.0)</val>
+<val>(1.0, 0.0, 0.0, 1.0, 90.0, 177.0)</val>
 </matrix>
 <top-left>
 <val>(0.0, 0.0)</val>
@@ -4771,13 +4805,18 @@
 <ref refid="4b8cadfb-81b6-11f1-a965-f0c5d781d7c8"/>
 </reflist>
 </presentation>
+<targetDirectedRelationshipPropertyPath_>
+<reflist>
+<ref refid="10456e3f-8349-11f1-8208-f0c5d781d7c8"/>
+</reflist>
+</targetDirectedRelationshipPropertyPath_>
 <text>
 <val>The physical chassis structure shall include a smooth, steep internal funnel (for flying insects caught via fan suction) and targeted lower entry tracks (for crawling insects) that both dump directly into the common reservoir.</val>
 </text>
 </SysML:Requirement>
 <SysML:RequirementItem id="4b8cadfb-81b6-11f1-a965-f0c5d781d7c8">
 <matrix>
-<val>(1.0, 0.0, 0.0, 1.0, 604.0, 182.0)</val>
+<val>(1.0, 0.0, 0.0, 1.0, 413.0, 177.0)</val>
 </matrix>
 <top-left>
 <val>(0.0, 0.0)</val>
@@ -4797,16 +4836,16 @@
 </SysML:RequirementItem>
 <SysML:RequirementItem id="8d87aaf8-81bb-11f1-a3a6-f0c5d781d7c8">
 <matrix>
-<val>(1.0, 0.0, 0.0, 1.0, 1084.0, -81.5)</val>
+<val>(1.0, 0.0, 0.0, 1.0, 1167.3333333333328, -187.0)</val>
 </matrix>
 <top-left>
 <val>(0.0, 12.5)</val>
 </top-left>
 <width>
-<val>249.0</val>
+<val>213.2777777777785</val>
 </width>
 <height>
-<val>196.5</val>
+<val>198.00000000000003</val>
 </height>
 <diagram>
 <ref refid="07658ade-70f8-11ec-aabc-f47b099bf663"/>
@@ -4837,16 +4876,16 @@
 </SysML:RequirementItem>
 <SysML:RequirementItem id="8eff34d3-81bb-11f1-977c-f0c5d781d7c8">
 <matrix>
-<val>(1.0, 0.0, 0.0, 1.0, 843.5, -201.5)</val>
+<val>(1.0, 0.0, 0.0, 1.0, 818.0, -174.5)</val>
 </matrix>
 <top-left>
 <val>(0.0, 0.0)</val>
 </top-left>
 <width>
-<val>198.0</val>
+<val>249.0</val>
 </width>
 <height>
-<val>196.5</val>
+<val>197.99999999999997</val>
 </height>
 <diagram>
 <ref refid="07658ade-70f8-11ec-aabc-f47b099bf663"/>
@@ -4911,7 +4950,7 @@
 <val>(1.0, 0.0, 0.0, 1.0, 577.0, 109.0)</val>
 </matrix>
 <points>
-<val>[(-193.0, -184.5), (25.0, -184.5), (25.0, 100.0)]</val>
+<val>[(-193.0, -184.5), (17.222222222222285, -184.50000000000006), (15.527777777777828, 100.0)]</val>
 </points>
 <head-connection>
 <ref refid="8e230f7e-81bb-11f1-8406-f0c5d781d7c8"/>
@@ -4950,7 +4989,7 @@
 <val>(1.0, 0.0, 0.0, 1.0, 936.0, 208.0)</val>
 </matrix>
 <points>
-<val>[(6.5, -213.0), (6.5, 1.0)]</val>
+<val>[(6.5, -184.50000000000003), (6.5, 1.0)]</val>
 </points>
 <head-connection>
 <ref refid="8eff34d3-81bb-11f1-977c-f0c5d781d7c8"/>
@@ -4970,6 +5009,595 @@
 </sourceContext>
 <targetContext>
 <ref refid="f5244593-81b5-11f1-a847-f0c5d781d7c8"/>
+</targetContext>
+</SysML:DeriveReqt>
+<SysML:RequirementItem id="d5048007-8348-11f1-8dca-f0c5d781d7c8">
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 759.0, -179.0)</val>
+</matrix>
+<top-left>
+<val>(6.0, -3.0)</val>
+</top-left>
+<width>
+<val>259.0</val>
+</width>
+<height>
+<val>232.0</val>
+</height>
+<diagram>
+<ref refid="b2a178f0-70f7-11ec-aabc-f47b099bf663"/>
+</diagram>
+<subject>
+<ref refid="f5244593-81b5-11f1-a847-f0c5d781d7c8"/>
+</subject>
+</SysML:RequirementItem>
+<SysML:RequirementItem id="d948b954-8348-11f1-8e2c-f0c5d781d7c8">
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 90.0, -182.0)</val>
+</matrix>
+<top-left>
+<val>(0.0, 0.0)</val>
+</top-left>
+<width>
+<val>236.0</val>
+</width>
+<height>
+<val>232.0</val>
+</height>
+<diagram>
+<ref refid="b2a178f0-70f7-11ec-aabc-f47b099bf663"/>
+</diagram>
+<subject>
+<ref refid="bf104323-81b5-11f1-98cf-f0c5d781d7c8"/>
+</subject>
+</SysML:RequirementItem>
+<SysML:DeriveReqtItem id="e87f42c6-8348-11f1-9679-f0c5d781d7c8">
+<diagram>
+<ref refid="b2a178f0-70f7-11ec-aabc-f47b099bf663"/>
+</diagram>
+<horizontal>
+<val>False</val>
+</horizontal>
+<orthogonal>
+<val>False</val>
+</orthogonal>
+<subject>
+<ref refid="ec1b98f4-8348-11f1-9fd8-f0c5d781d7c8"/>
+</subject>
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 204.0, 175.0)</val>
+</matrix>
+<points>
+<val>[(4.0, -125.0), (4.0, 2.0)]</val>
+</points>
+<head-connection>
+<ref refid="d948b954-8348-11f1-8e2c-f0c5d781d7c8"/>
+</head-connection>
+<tail-connection>
+<ref refid="2f04826e-81b6-11f1-8615-f0c5d781d7c8"/>
+</tail-connection>
+</SysML:DeriveReqtItem>
+<SysML:DeriveReqt id="ec1b98f4-8348-11f1-9fd8-f0c5d781d7c8">
+<presentation>
+<reflist>
+<ref refid="e87f42c6-8348-11f1-9679-f0c5d781d7c8"/>
+</reflist>
+</presentation>
+<sourceContext>
+<ref refid="bf104323-81b5-11f1-98cf-f0c5d781d7c8"/>
+</sourceContext>
+<targetContext>
+<ref refid="2f04341e-81b6-11f1-8e5c-f0c5d781d7c8"/>
+</targetContext>
+</SysML:DeriveReqt>
+<SysML:RequirementItem id="fc58099c-8348-11f1-bf68-f0c5d781d7c8">
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 413.0, -199.0)</val>
+</matrix>
+<top-left>
+<val>(0.0, 17.0)</val>
+</top-left>
+<width>
+<val>267.0</val>
+</width>
+<height>
+<val>232.0</val>
+</height>
+<diagram>
+<ref refid="b2a178f0-70f7-11ec-aabc-f47b099bf663"/>
+</diagram>
+<subject>
+<ref refid="db21b353-81b5-11f1-8847-f0c5d781d7c8"/>
+</subject>
+</SysML:RequirementItem>
+<SysML:DeriveReqtItem id="0c6c3301-8349-11f1-932f-f0c5d781d7c8">
+<diagram>
+<ref refid="b2a178f0-70f7-11ec-aabc-f47b099bf663"/>
+</diagram>
+<horizontal>
+<val>False</val>
+</horizontal>
+<orthogonal>
+<val>False</val>
+</orthogonal>
+<subject>
+<ref refid="10456e3f-8349-11f1-8208-f0c5d781d7c8"/>
+</subject>
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 819.0, 167.0)</val>
+</matrix>
+<points>
+<val>[(-272.5, -117.0), (-272.5, 10.0)]</val>
+</points>
+<head-connection>
+<ref refid="fc58099c-8348-11f1-bf68-f0c5d781d7c8"/>
+</head-connection>
+<tail-connection>
+<ref refid="4b8cadfb-81b6-11f1-a965-f0c5d781d7c8"/>
+</tail-connection>
+</SysML:DeriveReqtItem>
+<SysML:DeriveReqt id="10456e3f-8349-11f1-8208-f0c5d781d7c8">
+<presentation>
+<reflist>
+<ref refid="0c6c3301-8349-11f1-932f-f0c5d781d7c8"/>
+</reflist>
+</presentation>
+<sourceContext>
+<ref refid="db21b353-81b5-11f1-8847-f0c5d781d7c8"/>
+</sourceContext>
+<targetContext>
+<ref refid="4b8c70af-81b6-11f1-bd1c-f0c5d781d7c8"/>
+</targetContext>
+</SysML:DeriveReqt>
+<SysML:Requirement id="75016c25-8349-11f1-b447-f0c5d781d7c8">
+<externalId>
+<val>PR-03</val>
+</externalId>
+<name>
+<val>Suction Fan &amp; Airflow Assembly</val>
+</name>
+<owningPackage>
+<ref refid="274478f2-70f7-11ec-aabc-f47b099bf663"/>
+</owningPackage>
+<package>
+<ref refid="274478f2-70f7-11ec-aabc-f47b099bf663"/>
+</package>
+<presentation>
+<reflist>
+<ref refid="7501b168-8349-11f1-a9bd-f0c5d781d7c8"/>
+</reflist>
+</presentation>
+<targetDirectedRelationshipPropertyPath_>
+<reflist>
+<ref refid="90b76546-8349-11f1-85ca-f0c5d781d7c8"/>
+</reflist>
+</targetDirectedRelationshipPropertyPath_>
+<text>
+<val>The system shall include a low-voltage DC fan mounted to generate continuous downward airflow, creating the necessary current to pull flying insects into the containment zone.</val>
+</text>
+</SysML:Requirement>
+<SysML:RequirementItem id="7501b168-8349-11f1-a9bd-f0c5d781d7c8">
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 765.0, 177.0)</val>
+</matrix>
+<top-left>
+<val>(0.0, 0.0)</val>
+</top-left>
+<width>
+<val>259.0</val>
+</width>
+<height>
+<val>202.0</val>
+</height>
+<diagram>
+<ref refid="b2a178f0-70f7-11ec-aabc-f47b099bf663"/>
+</diagram>
+<subject>
+<ref refid="75016c25-8349-11f1-b447-f0c5d781d7c8"/>
+</subject>
+</SysML:RequirementItem>
+<SysML:DeriveReqtItem id="8d328257-8349-11f1-924b-f0c5d781d7c8">
+<diagram>
+<ref refid="b2a178f0-70f7-11ec-aabc-f47b099bf663"/>
+</diagram>
+<horizontal>
+<val>False</val>
+</horizontal>
+<orthogonal>
+<val>False</val>
+</orthogonal>
+<subject>
+<ref refid="90b76546-8349-11f1-85ca-f0c5d781d7c8"/>
+</subject>
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 1049.0, 155.0)</val>
+</matrix>
+<points>
+<val>[(-154.5, -105.0), (-154.5, 22.0)]</val>
+</points>
+<head-connection>
+<ref refid="d5048007-8348-11f1-8dca-f0c5d781d7c8"/>
+</head-connection>
+<tail-connection>
+<ref refid="7501b168-8349-11f1-a9bd-f0c5d781d7c8"/>
+</tail-connection>
+</SysML:DeriveReqtItem>
+<SysML:DeriveReqt id="90b76546-8349-11f1-85ca-f0c5d781d7c8">
+<presentation>
+<reflist>
+<ref refid="8d328257-8349-11f1-924b-f0c5d781d7c8"/>
+</reflist>
+</presentation>
+<sourceContext>
+<ref refid="f5244593-81b5-11f1-a847-f0c5d781d7c8"/>
+</sourceContext>
+<targetContext>
+<ref refid="75016c25-8349-11f1-b447-f0c5d781d7c8"/>
+</targetContext>
+</SysML:DeriveReqt>
+<SysML:Requirement id="33f15a75-834a-11f1-8e02-f0c5d781d7c8">
+<externalId>
+<val>LR-04</val>
+</externalId>
+<name>
+<val>Non-Disruptive Visual Design</val>
+</name>
+<owningPackage>
+<ref refid="cca1054c-70f5-11ec-aabc-f47b099bf663"/>
+</owningPackage>
+<package>
+<ref refid="cca1054c-70f5-11ec-aabc-f47b099bf663"/>
+</package>
+<presentation>
+<reflist>
+<ref refid="33f1af47-834a-11f1-b92c-f0c5d781d7c8"/>
+<ref refid="d67d98d3-834a-11f1-9637-f0c5d781d7c8"/>
+</reflist>
+</presentation>
+<targetDirectedRelationshipPropertyPath_>
+<reflist>
+<ref refid="a78bf354-834a-11f1-b9a3-f0c5d781d7c8"/>
+</reflist>
+</targetDirectedRelationshipPropertyPath_>
+<text>
+<val>The system shall physically separate and visually obscure the internal insect containment zone from the external housing to maintain a discreet, home-friendly exterior footprint.</val>
+</text>
+</SysML:Requirement>
+<SysML:RequirementItem id="33f1af47-834a-11f1-b92c-f0c5d781d7c8">
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 1167.3333333333326, 209.00000000000006)</val>
+</matrix>
+<top-left>
+<val>(0.0, 0.0)</val>
+</top-left>
+<width>
+<val>213.2777777777785</val>
+</width>
+<height>
+<val>219.0</val>
+</height>
+<diagram>
+<ref refid="07658ade-70f8-11ec-aabc-f47b099bf663"/>
+</diagram>
+<subject>
+<ref refid="33f15a75-834a-11f1-8e02-f0c5d781d7c8"/>
+</subject>
+</SysML:RequirementItem>
+<SysML:DeriveReqtItem id="a60dfe0d-834a-11f1-a02e-f0c5d781d7c8">
+<diagram>
+<ref refid="07658ade-70f8-11ec-aabc-f47b099bf663"/>
+</diagram>
+<horizontal>
+<val>False</val>
+</horizontal>
+<orthogonal>
+<val>False</val>
+</orthogonal>
+<subject>
+<ref refid="a78bf354-834a-11f1-b9a3-f0c5d781d7c8"/>
+</subject>
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 1273.9444444444446, 22.444444444444514)</val>
+</matrix>
+<points>
+<val>[(0.0, 1.0555555555555145), (0.0, 186.55555555555554)]</val>
+</points>
+<head-connection>
+<ref refid="8d87aaf8-81bb-11f1-a3a6-f0c5d781d7c8"/>
+</head-connection>
+<tail-connection>
+<ref refid="33f1af47-834a-11f1-b92c-f0c5d781d7c8"/>
+</tail-connection>
+</SysML:DeriveReqtItem>
+<SysML:DeriveReqt id="a78bf354-834a-11f1-b9a3-f0c5d781d7c8">
+<presentation>
+<reflist>
+<ref refid="a60dfe0d-834a-11f1-a02e-f0c5d781d7c8"/>
+</reflist>
+</presentation>
+<sourceContext>
+<ref refid="18aefaa1-7ed7-11f1-a07b-d6ae1adfc68a"/>
+</sourceContext>
+<targetContext>
+<ref refid="33f15a75-834a-11f1-8e02-f0c5d781d7c8"/>
+</targetContext>
+</SysML:DeriveReqt>
+<SysML:RequirementItem id="d67d98d3-834a-11f1-9637-f0c5d781d7c8">
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 1118.8888888888905, -182.0000000000004)</val>
+</matrix>
+<top-left>
+<val>(0.0, 4.263256414560601e-13)</val>
+</top-left>
+<width>
+<val>236.0</val>
+</width>
+<height>
+<val>231.99999999999997</val>
+</height>
+<diagram>
+<ref refid="b2a178f0-70f7-11ec-aabc-f47b099bf663"/>
+</diagram>
+<subject>
+<ref refid="33f15a75-834a-11f1-8e02-f0c5d781d7c8"/>
+</subject>
+</SysML:RequirementItem>
+<SysML:Requirement id="017b93d8-834b-11f1-8a89-f0c5d781d7c8">
+<externalId>
+<val>PR-04</val>
+</externalId>
+<name>
+<val>Opaque Containment Chamber</val>
+</name>
+<owningPackage>
+<ref refid="274478f2-70f7-11ec-aabc-f47b099bf663"/>
+</owningPackage>
+<package>
+<ref refid="274478f2-70f7-11ec-aabc-f47b099bf663"/>
+</package>
+<presentation>
+<reflist>
+<ref refid="017bca2d-834b-11f1-85e9-f0c5d781d7c8"/>
+</reflist>
+</presentation>
+<targetDirectedRelationshipPropertyPath_>
+<reflist>
+<ref refid="2361c56a-834b-11f1-817c-f0c5d781d7c8"/>
+</reflist>
+</targetDirectedRelationshipPropertyPath_>
+<text>
+<val>The unified removable collection reservoir and lower chassis shall be manufactured from an opaque material to completely obscure the trapped contents from external visibility.</val>
+</text>
+</SysML:Requirement>
+<SysML:RequirementItem id="017bca2d-834b-11f1-85e9-f0c5d781d7c8">
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 1118.8888888888905, 176.99999999999994)</val>
+</matrix>
+<top-left>
+<val>(0.0, 0.0)</val>
+</top-left>
+<width>
+<val>236.0</val>
+</width>
+<height>
+<val>202.0</val>
+</height>
+<diagram>
+<ref refid="b2a178f0-70f7-11ec-aabc-f47b099bf663"/>
+</diagram>
+<subject>
+<ref refid="017b93d8-834b-11f1-8a89-f0c5d781d7c8"/>
+</subject>
+</SysML:RequirementItem>
+<SysML:DeriveReqtItem id="22602aab-834b-11f1-986b-f0c5d781d7c8">
+<diagram>
+<ref refid="b2a178f0-70f7-11ec-aabc-f47b099bf663"/>
+</diagram>
+<horizontal>
+<val>False</val>
+</horizontal>
+<orthogonal>
+<val>False</val>
+</orthogonal>
+<subject>
+<ref refid="2361c56a-834b-11f1-817c-f0c5d781d7c8"/>
+</subject>
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 1238.1111111111125, 47.8668865147434)</val>
+</matrix>
+<points>
+<val>[(-1.2222222222218306, 2.133113485256615), (-1.2222222222219443, 129.13311348525662)]</val>
+</points>
+<head-connection>
+<ref refid="d67d98d3-834a-11f1-9637-f0c5d781d7c8"/>
+</head-connection>
+<tail-connection>
+<ref refid="017bca2d-834b-11f1-85e9-f0c5d781d7c8"/>
+</tail-connection>
+</SysML:DeriveReqtItem>
+<SysML:DeriveReqt id="2361c56a-834b-11f1-817c-f0c5d781d7c8">
+<presentation>
+<reflist>
+<ref refid="22602aab-834b-11f1-986b-f0c5d781d7c8"/>
+</reflist>
+</presentation>
+<sourceContext>
+<ref refid="33f15a75-834a-11f1-8e02-f0c5d781d7c8"/>
+</sourceContext>
+<targetContext>
+<ref refid="017b93d8-834b-11f1-8a89-f0c5d781d7c8"/>
+</targetContext>
+</SysML:DeriveReqt>
+<SysML:Requirement id="5113a2fc-834b-11f1-8109-f0c5d781d7c8">
+<externalId>
+<val>PR-06</val>
+</externalId>
+<name>
+<val>Concealed Power Routing</val>
+</name>
+<owningPackage>
+<ref refid="274478f2-70f7-11ec-aabc-f47b099bf663"/>
+</owningPackage>
+<package>
+<ref refid="274478f2-70f7-11ec-aabc-f47b099bf663"/>
+</package>
+<presentation>
+<reflist>
+<ref refid="5113e539-834b-11f1-90c1-f0c5d781d7c8"/>
+</reflist>
+</presentation>
+<targetDirectedRelationshipPropertyPath_>
+<reflist>
+<ref refid="fd13bb97-834b-11f1-b841-f0c5d781d7c8"/>
+</reflist>
+</targetDirectedRelationshipPropertyPath_>
+<text>
+<val>All external power interfaces, including power cords or battery compartments, shall be positioned at the bottom baseplate of the chassis to hide them from the typical user viewing angle.</val>
+</text>
+</SysML:Requirement>
+<SysML:RequirementItem id="5113e539-834b-11f1-90c1-f0c5d781d7c8">
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 1719.2222222222224, 176.99999999999994)</val>
+</matrix>
+<top-left>
+<val>(0.0, 0.0)</val>
+</top-left>
+<width>
+<val>237.77777777777737</val>
+</width>
+<height>
+<val>202.00000000000006</val>
+</height>
+<diagram>
+<ref refid="b2a178f0-70f7-11ec-aabc-f47b099bf663"/>
+</diagram>
+<subject>
+<ref refid="5113a2fc-834b-11f1-8109-f0c5d781d7c8"/>
+</subject>
+</SysML:RequirementItem>
+<SysML:Requirement id="9d811699-834b-11f1-8c82-f0c5d781d7c8">
+<externalId>
+<val>PR-05</val>
+</externalId>
+<name>
+<val>Decorative Housing</val>
+</name>
+<owningPackage>
+<ref refid="274478f2-70f7-11ec-aabc-f47b099bf663"/>
+</owningPackage>
+<package>
+<ref refid="274478f2-70f7-11ec-aabc-f47b099bf663"/>
+</package>
+<presentation>
+<reflist>
+<ref refid="9d8158cc-834b-11f1-b165-f0c5d781d7c8"/>
+</reflist>
+</presentation>
+<targetDirectedRelationshipPropertyPath_>
+<reflist>
+<ref refid="f4cc989a-834b-11f1-b71e-f0c5d781d7c8"/>
+</reflist>
+</targetDirectedRelationshipPropertyPath_>
+<text>
+<val>The external casing shall be shaped as an organic, pitcher plant-inspired form with a clean finish to serve as a decorative, non-industrial element in residential settings.</val>
+</text>
+</SysML:Requirement>
+<SysML:RequirementItem id="9d8158cc-834b-11f1-b165-f0c5d781d7c8">
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 1431.4444444444455, 159.9999999999998)</val>
+</matrix>
+<top-left>
+<val>(0.0, 17.000000000000114)</val>
+</top-left>
+<width>
+<val>221.11111111110984</val>
+</width>
+<height>
+<val>202.00000000000006</val>
+</height>
+<diagram>
+<ref refid="b2a178f0-70f7-11ec-aabc-f47b099bf663"/>
+</diagram>
+<subject>
+<ref refid="9d811699-834b-11f1-8c82-f0c5d781d7c8"/>
+</subject>
+</SysML:RequirementItem>
+<SysML:DeriveReqtItem id="ef916efb-834b-11f1-8c49-f0c5d781d7c8">
+<diagram>
+<ref refid="b2a178f0-70f7-11ec-aabc-f47b099bf663"/>
+</diagram>
+<horizontal>
+<val>False</val>
+</horizontal>
+<orthogonal>
+<val>False</val>
+</orthogonal>
+<subject>
+<ref refid="f4cc989a-834b-11f1-b71e-f0c5d781d7c8"/>
+</subject>
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 1532.5555555555552, 173.97799762585447)</val>
+</matrix>
+<points>
+<val>[(-177.6666666666647, -166.66666666666669), (9.444444444445026, -166.66666666666669), (9.444444444445026, 3.0220023741454156)]</val>
+</points>
+<head-connection>
+<ref refid="d67d98d3-834a-11f1-9637-f0c5d781d7c8"/>
+</head-connection>
+<tail-connection>
+<ref refid="9d8158cc-834b-11f1-b165-f0c5d781d7c8"/>
+</tail-connection>
+</SysML:DeriveReqtItem>
+<SysML:DeriveReqt id="f4cc989a-834b-11f1-b71e-f0c5d781d7c8">
+<presentation>
+<reflist>
+<ref refid="ef916efb-834b-11f1-8c49-f0c5d781d7c8"/>
+</reflist>
+</presentation>
+<sourceContext>
+<ref refid="33f15a75-834a-11f1-8e02-f0c5d781d7c8"/>
+</sourceContext>
+<targetContext>
+<ref refid="9d811699-834b-11f1-8c82-f0c5d781d7c8"/>
+</targetContext>
+</SysML:DeriveReqt>
+<SysML:DeriveReqtItem id="f892e4c0-834b-11f1-baa3-f0c5d781d7c8">
+<diagram>
+<ref refid="b2a178f0-70f7-11ec-aabc-f47b099bf663"/>
+</diagram>
+<horizontal>
+<val>False</val>
+</horizontal>
+<orthogonal>
+<val>False</val>
+</orthogonal>
+<subject>
+<ref refid="fd13bb97-834b-11f1-b841-f0c5d781d7c8"/>
+</subject>
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 1636.9999999999995, -67.13311348525652)</val>
+</matrix>
+<points>
+<val>[(-282.11111111110904, 1.1331134852567004), (201.11111111111177, 1.1331134852565867), (201.11111111111154, 244.1331134852566)]</val>
+</points>
+<head-connection>
+<ref refid="d67d98d3-834a-11f1-9637-f0c5d781d7c8"/>
+</head-connection>
+<tail-connection>
+<ref refid="5113e539-834b-11f1-90c1-f0c5d781d7c8"/>
+</tail-connection>
+</SysML:DeriveReqtItem>
+<SysML:DeriveReqt id="fd13bb97-834b-11f1-b841-f0c5d781d7c8">
+<presentation>
+<reflist>
+<ref refid="f892e4c0-834b-11f1-baa3-f0c5d781d7c8"/>
+</reflist>
+</presentation>
+<sourceContext>
+<ref refid="33f15a75-834a-11f1-8e02-f0c5d781d7c8"/>
+</sourceContext>
+<targetContext>
+<ref refid="5113a2fc-834b-11f1-8109-f0c5d781d7c8"/>
 </targetContext>
 </SysML:DeriveReqt>
 </model>
